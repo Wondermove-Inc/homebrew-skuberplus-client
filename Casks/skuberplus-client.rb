@@ -1,6 +1,6 @@
 cask "skuberplus-client" do
-  version "0.4.3"
-  sha256 "5613a552a1b97ff8b41ed4cf0b44491589c56d0bede119a35ae4008e34454aa0"
+  version "0.4.4"
+  sha256 "2e81d39ca3bfade0e20ebd5f4f01600d8c55aef047fd45a414ade6d90b953325"
 
   url "https://djrpgwk5x3cu7.cloudfront.net/SkuberPlusClient-#{version}-arm64.dmg"
   name "SkuberPlus Client"
