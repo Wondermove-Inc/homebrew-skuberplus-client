@@ -1,13 +1,13 @@
 cask "skuberplus-client" do
-  version "0.5.7"
+  version "0.5.8"
 
   on_arm do
-    sha256 "57adcf1a7f2cbdf774eebae4036e4de4e9da935ea3803281b70c01189ecb780d"
+    sha256 "1ad8c7f20c7b3bb8427ef373099d37bdd0496662e9a8796acf7cc2d41d7a3f2a"
     url "https://djrpgwk5x3cu7.cloudfront.net/SkuberPlusClient-#{version}-arm64.dmg"
   end
 
   on_intel do
-    sha256 "f9efc844d434c377be96bcd23c7e99fffdaf4cbd633508edb7e50eea4736835a"
+    sha256 "a5dcb3c6323cb5be655a448b9c0590dbcace15229c2df4b3bb02a57e5600a0a7"
     url "https://djrpgwk5x3cu7.cloudfront.net/SkuberPlusClient-#{version}-x64.dmg"
   end
 
